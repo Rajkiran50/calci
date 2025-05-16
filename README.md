@@ -26,8 +26,10 @@ simple-calculator/
 ├── style.css       # Styles for layout and visuals
 └── script.js       # JavaScript logic for calculator
 
-To use:
+## 🙋‍♂️ Author
 
-- Rajkiran50, Kiran-Kudupudi.
+Developed by **Rajkiran**  
+📧 rajkiranrazz@example.com  
+🔗 [GitHub](https://github.com/Rajkiran50)
 
   
